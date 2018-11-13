@@ -6,3 +6,4 @@ Data Entry
 Data Processing
 MS Word
 MS Excel 
+Copy paste 
